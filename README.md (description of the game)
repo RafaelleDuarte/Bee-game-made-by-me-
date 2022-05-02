@@ -1,0 +1,6 @@
+# Bee-game-made-by-me-
+
+My game is moulded to be a bee trying to escape from a ball that has a sort of AI behaviour and keeps crossing the screen
+automatically from top to the bottom and from left to the right. 
+The bee can move throughout the screen and becomes red when the collision with the ball occurs. Besides, my code applies 
+gravity to the bee, making it bounce and jump smoothly. The game needs adjustments though.
