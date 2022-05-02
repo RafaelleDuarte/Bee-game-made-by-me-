@@ -1,6 +1,5 @@
  
 // coded by Rafaelle Duarte de Freitas Oliveira in January and February of 2022
-// matrícula: 04091445
 // Superior de Tecnologia em Coding, UNAMA
 // atividade contextualizada, disciplina Introdução ao Coding (games)
 // Credits: bee sprite by Robyn@OpenGameArt, website: opengameart.org
