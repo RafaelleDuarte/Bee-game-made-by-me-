@@ -1,25 +1,13 @@
  
-// coded by Rafaelle Duarte de Freitas Oliveira in January and February of 2022
-// Superior de Tecnologia em Coding, UNAMA
+// coded by Rafaelle Duarte in January and February of 2022
+// Superior de Tecnologia em Coding, UNAMA (University of Amazon)
 // atividade contextualizada, disciplina Introdução ao Coding (games)
 // Credits: bee sprite by Robyn@OpenGameArt, website: opengameart.org
 // Credits: beehive sprite from Pinclipart, website: pinclipart.com
 // credits: pot of honey by cleanpng
 
- /* CONTEXTO: ABELHA SALTITANTE QUE PRECISA DESVIAR DA BOLA INIMIGA. APÓS CLICAR NA TELA
-É NECESSARIO PRESSIONAR A TECLA DE DIREÇÃO UP (FLEXA PARA CIMA) PARA FAZER A ABELHA 
-PULAR E USAR AS DEMAIS TECLAS DE DIREÇÃO PARA MOVER A ABELHA AO LONGO DA TELA. A
-ABELHA TEM 100 VIDAS E PERDE 10 A CADA ENCONTRO COM A BOLA INIMIGA. APÓS PERDER AS
-100 VIDAS, AS VIDAS SE RESTABELECEM.
-*/
 
-/* não copiei código alheio, usei a documentação da Processing, ajustei 
-o meu código após ler perguntas e respostas no próprio forum da Processing e ler conteúdo 
-e fazer perguntas no StackOverflow, o que faz o meu códico ser muito amador e sem ajustes 
-estéticos. Sou fluente em inglês britânico e prefiro codificar 
-em inglês, então peço compreensão.
-
-Link para a ajuda que recebi no Stack Overflow: 
+Link para a ajuda que recebi no Stack Overflow: | link to the help that I received on StackOverflow:
 https://stackoverflow.com/questions/71258305/what-should-i-do-in-my-code-in-order-to-make-a-collision-detection-between-a-png/71260299#71260299
 */
 
