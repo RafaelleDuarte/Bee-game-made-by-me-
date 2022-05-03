@@ -6,7 +6,7 @@
 // Credits: beehive sprite from Pinclipart, website: pinclipart.com
 // credits: pot of honey by cleanpng
 
-
+/*
 Link para a ajuda que recebi no Stack Overflow: | link to the help that I received on StackOverflow:
 https://stackoverflow.com/questions/71258305/what-should-i-do-in-my-code-in-order-to-make-a-collision-detection-between-a-png/71260299#71260299
 */
