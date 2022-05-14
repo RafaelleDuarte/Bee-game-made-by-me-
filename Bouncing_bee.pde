@@ -1,7 +1,5 @@
  
 // coded by Rafaelle Duarte in January and February of 2022
-// Superior de Tecnologia em Coding, UNAMA (University of Amazon)
-// atividade contextualizada, disciplina Introdução ao Coding (games)
 // Credits: bee sprite by Robyn@OpenGameArt, website: opengameart.org
 // Credits: beehive sprite from Pinclipart, website: pinclipart.com
 // credits: pot of honey by cleanpng
